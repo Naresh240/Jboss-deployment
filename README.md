@@ -29,7 +29,7 @@
   Build Artifact:
   
     mvn clean install
-  Copy Artifact to "/root/wildfly-18.0.0.Final/standalone/deployments" directory
+  Copy Artifact to "/opt/wildfly-18.0.0.Final/standalone/deployments" directory
     
     cp targets/mavewebappdemo-2.0.0-SNAPSHOT.war /opt/wildfly-18.0.0.Final/standalone/deployments
   Check output in UI:
